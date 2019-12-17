@@ -11,3 +11,4 @@ class Shoe
 end
 
 nike = Shoe.new("Nike")
+nike.color="blue"
