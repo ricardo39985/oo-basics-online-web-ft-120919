@@ -4,7 +4,6 @@ class Book
     @author=author
     @num=num
     @genre=genre
-
   end
   def turn_page
     puts "Flipping the page...wow, you read fast!"
